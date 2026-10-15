@@ -1,0 +1,9 @@
+Debug/
+Release/
+.metadata/
+.settings/
+*.log
+.DS_Store
+~$*
+*.zip
+*.docx
